@@ -16,7 +16,7 @@ The system captures:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 Rufus does not return data in a simple API response. Instead, it uses **dynamic rendering and streaming responses**.
 
@@ -34,8 +34,8 @@ User Query → Rufus → (Streaming / API) → Browser UI
 
 ## ⚙️ Tech Stack
 
-- Python 🐍  
-- Playwright 🎭 (browser automation)
+- Python  
+- Playwright (browser automation)
 
 ---
 
@@ -54,7 +54,7 @@ rufus-poc/
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### 1. Install dependencies
 
@@ -64,28 +64,28 @@ pip install -r requirements.txt
 2. Install browser
 python -m playwright install chromium
 
-▶️ Usage (Step-by-Step)
+Usage (Step-by-Step)
 
-🔹 Step 1: Network Interception (Primary Method)
+Step 1: Network Interception (Primary Method)
 python network_interceptor.py
 
-👉 What happens:
+What happens:
 A browser opens automatically
 You log in manually
 Open Rufus (chat icon)
 Enter query (e.g., Best hair serum for men)
 Script captures all backend responses
 
-🖥️ Example Flow
+Example Flow
 Open Amazon → Login → Open Rufus → Type Query
                                  ↓
                      Capture Network Calls
                                  ↓
                      Save JSON Output
                      
-📁 Output
+Output
 output/rufus_network.json
-🔍 What to check in output
+What to check in output
 
 Look for:
 
@@ -94,19 +94,19 @@ recommendations
 title, price, rating
 
 
-🔹 Step 2: DOM Extraction (Fallback)
+Step 2: DOM Extraction (Fallback)
 
 If API data is not accessible or Rufus uses streaming:
 
 python rufus_extractor.py
-👉 What happens:
+What happens:
 Browser opens
 You manually run Rufus
 Script reads visible UI
 Extracts product details
 
 
-📁 Output
+Output
 output/rufus_result.json
 
 
@@ -131,15 +131,6 @@ output/rufus_result.json
     }
   ]
 }
-🧠 Key Concepts
-🔹 Network Interception
 
-Captures backend API responses directly from browser traffic.
-
-🔹 DOM Scraping
-
-Extracts data from visible UI elements.
-
-🔹 Streaming Responses
 
 Rufus sends responses in chunks instead of a single JSON response.
