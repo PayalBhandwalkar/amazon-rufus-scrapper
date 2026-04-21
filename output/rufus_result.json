@@ -1,0 +1,315 @@
+{
+  "total_searches": 4,
+  "last_updated": "2026-04-21T11:53:47.166654",
+  "sessions": [
+    {
+      "query": "best coffee machine",
+      "responseText": "These options range from budget-friendly drip makers to professional-grade espresso machines. The Breville models offer café-quality espresso with integrated grinders, while the Keurig machines provide ultimate convenience for single servings. The Ninja and Cuisinart drip makers excel at brewing larger quantities with programmable features.",
+      "products": [
+        {
+          "rank": 1,
+          "name": "Breville Barista Express Espresso Machine BES870XL, Brushed Stainless Steel",
+          "asin": "B00CH9QWOU",
+          "url": "https://www.amazon.com/dp/B00CH9QWOU",
+          "price": "$674.99",
+          "rating": "4.5 out of 5 stars (27,414 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 2,
+          "name": "Breville Barista Express Impress Espresso Machine BES876BSS, Brushed Stainless Steel",
+          "asin": "B0BBYNPV33",
+          "url": "https://www.amazon.com/dp/B0BBYNPV33",
+          "price": "$779.99",
+          "rating": "4.2 out of 5 stars (1,371 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 3,
+          "name": "CASABREWS CM5418 Espresso Machine 20 Bar, Compact Espresso Maker with Steam Milk Frother, Stainless Steel Coffee Machine with 34oz Removable Water Tank for Cappuccino, Small Latte Machine, Silver",
+          "asin": "B09X3WGJ3R",
+          "url": "https://www.amazon.com/dp/B09X3WGJ3R",
+          "price": "$139.99",
+          "rating": "4.4 out of 5 stars (7,550 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 4,
+          "name": "Ninja 12-Cup Programmable Coffee Brewer, 2 Brew Styles, Adjustable Warm Plate, 60oz Water Reservoir, Delay Brew - Black/Stainless Steel",
+          "asin": "B07S98411N",
+          "url": "https://www.amazon.com/dp/B07S98411N",
+          "price": "$89.99",
+          "rating": "4.4 out of 5 stars (28,219 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 5,
+          "name": "Cuisinart 14-Cup Coffee Maker, Programmable PerfecTemp Glass Carafe Coffee Machine with 1-4 Cup Setting, Brew Strength Control and Pause, Stainless Steel, DCC-3200NAS",
+          "asin": "B00MVWGQX0",
+          "url": "https://www.amazon.com/dp/B00MVWGQX0",
+          "price": "$119.95",
+          "rating": "4.5 out of 5 stars (43,172 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 6,
+          "name": "Cuisinart DCC-1200P1 Brew Central 12-Cup Programmable Coffeemaker Coffee Maker, Carafe, Brushed Chrome",
+          "asin": "B00005IBX9",
+          "url": "https://www.amazon.com/dp/B00005IBX9",
+          "price": "$89.95",
+          "rating": "4.6 out of 5 stars (13,259 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 7,
+          "name": "Keurig K-Elite Single Serve K-Cup Pod Coffee Maker, with Strength and Temperature Control, Iced Coffee Capability, 8 to 12oz Brew Size, Programmable, Brushed Silver",
+          "asin": "B0788F3R8X",
+          "url": "https://www.amazon.com/dp/B0788F3R8X",
+          "price": "$129.99",
+          "rating": "4.6 out of 5 stars (70,935 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 8,
+          "name": "Keurig K-Mini Single Serve K-Cup Pod Coffee Maker, 6 to 12oz Brew size, with Cord Storage, Perfect for Small Spaces, Black",
+          "asin": "B07GV2S1GS",
+          "url": "https://www.amazon.com/dp/B07GV2S1GS",
+          "price": "$78.40",
+          "rating": "4.3 out of 5 stars (107,137 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 9,
+          "name": "Cuisinart Coffee Maker, Single Serve 72-Ounce Reservoir Pod Coffee Machine, Programmable Brewing & Hot Water Dispenser, 3 Cup-Size Settings, Stainless Steel, SS-10P1, Silver",
+          "asin": "B014W1C2VM",
+          "url": "https://www.amazon.com/dp/B014W1C2VM",
+          "price": "$99.99",
+          "rating": "4.2 out of 5 stars (19,240 ratings)",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "search_number": 2,
+      "timestamp": "2026-04-20T23:04:50.249299",
+      "query": "best cleanser for dry skin?",
+      "responseText": "These cleansers are specifically formulated to cleanse without stripping your skin's natural moisture barrier. The CeraVe and La Roche-Posay options are particularly popular with dermatologists, while the Aveeno cleanser offers natural oat-based soothing for extra dry or irritated skin.",
+      "products": [
+        {
+          "rank": 1,
+          "name": "CeraVe Hydrating Facial Cleanser, Moisturizing Face Wash For Dry Skin, Hyaluronic Acid + Ceramides + Glycerin, Hydrating Cleanser For Normal To Dry Skin, National Eczema Association Certified",
+          "asin": "B01MSSDEPK",
+          "url": "https://www.amazon.com/dp/B01MSSDEPK",
+          "price": "$15.97",
+          "rating": "4.7 out of 5 stars (125,849 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 2,
+          "name": "La Roche-Posay Toleriane Hydrating Gentle Face Cleanser, Hydrating Facial Cleanser With Niacinamide + Ceramides, Daily Face Wash For Dry Skin To Normal Skin, Sensitive Skin Tested, Fragrance Free",
+          "asin": "B01N7T7JKJ",
+          "url": "https://www.amazon.com/dp/B01N7T7JKJ",
+          "price": "$19.99",
+          "rating": "4.6 out of 5 stars (38,058 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 3,
+          "name": "CeraVe Hydrating Cream To Foam Cleanser, Makeup Remover Face Wash For Dry Skin, Foaming Facial Cleanser With Hyaluronic Acid, Normal To Dry Skin, Fragrance Free & Non Comedogenic, 19 Fluid Ounce",
+          "asin": "B08CQDF382",
+          "url": "https://www.amazon.com/dp/B08CQDF382",
+          "price": "$17.06",
+          "rating": "4.8 out of 5 stars (25,652 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 4,
+          "name": "Aveeno Calm + Restore Nourishing Oat Cleanser, Daily Hydrating Facial Cleanser & Face Wash for Sensitive Skin, Non-Foaming, Hypoallergenic, Non-Comedogenic, Fragrance-Free, with Feverfew, 7.8 fl oz",
+          "asin": "B08BG5Y7FL",
+          "url": "https://www.amazon.com/dp/B08BG5Y7FL",
+          "price": "$9.97",
+          "rating": "4.5 out of 5 stars (9,743 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 5,
+          "name": "Vanicream Gentle Facial Cleanser with Pump Dispenser - 8 fl oz - Formulated Without Common Irritants for Those with Sensitive Skin",
+          "asin": "B00QY1XZ4W",
+          "url": "https://www.amazon.com/dp/B00QY1XZ4W",
+          "price": "$9.97",
+          "rating": "4.7 out of 5 stars (33,285 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 6,
+          "name": "Cetaphil Face Wash, Hydrating Gentle Skin Cleanser for Dry to Normal Sensitive Skin, 20 oz, Fragrance Free, Soap Free and Non-Foaming",
+          "asin": "B099N3NM61",
+          "url": "https://www.amazon.com/dp/B099N3NM61",
+          "price": "$13.44",
+          "rating": "4.7 out of 5 stars (14,677 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 7,
+          "name": "Amazon Basics Hydrating Facial Cleanser, Fragrance Free, with Ceramides, Non-Comedogenic, 12 Fl Oz, Pack of 1",
+          "asin": "B0CCTN6HDW",
+          "url": "https://www.amazon.com/dp/B0CCTN6HDW",
+          "price": "$8.00",
+          "rating": "4.3 out of 5 stars (803 ratings)",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "search_number": 3,
+      "timestamp": "2026-04-20T23:06:04.345128",
+      "query": "best laptop",
+      "responseText": "These laptops range from budget-friendly options under $400 to premium models over $2000. The ASUS ROG and Zenbook models offer cutting-edge performance, while MacBooks provide the seamless Apple ecosystem experience. For everyday computing, the Acer and Dell options deliver reliable performance at accessible prices.",
+      "products": [
+        {
+          "rank": 1,
+          "name": "ASUS ROG Strix G16 (2025) Gaming Laptop, 16” ROG Nebula Display 16:10 2.5K 240Hz/3ms, NVIDIA® GeForce RTX™ 5070 Laptop GPU, Intel® Core™ Ultra 9 275HX, 32GB DDR5, 2TB Gen 4 SSD, Wi-Fi 7, Win 11 Pro",
+          "asin": "B0F7J4QFTL",
+          "url": "https://www.amazon.com/dp/B0F7J4QFTL",
+          "price": "$2,199.00",
+          "rating": "4.3 out of 5 stars (22 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 2,
+          "name": "ASUS Zenbook Duo Laptop, Dual 14” OLED 3K 120Hz Touch Display, Evo, Intel Core Ultra 9 285H, Intel Arc Graphics, 32GB RAM, 1TB SSD, Windows 11, UX8406CA-PS99T",
+          "asin": "B0DPQ35KMW",
+          "url": "https://www.amazon.com/dp/B0DPQ35KMW",
+          "price": "$1,899.99",
+          "rating": "4.5 out of 5 stars (230 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 3,
+          "name": "Lenovo Gen 13 ThinkPad X1 Carbon Aura Edition Laptop with Intel Core Ultra 7 258V Processor, 14\" 2.8K OLED Non-Touch 120Hz Display, Wi-Fi 7, 32GB RAM, 1TB SSD Gen 5, FHD RGB/IR Cam, Win 11 Pro",
+          "asin": "B0FP5WXWZJ",
+          "url": "https://www.amazon.com/dp/B0FP5WXWZJ",
+          "price": "$1,989.01",
+          "rating": "5.0 out of 5 stars (7 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 4,
+          "name": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip: Built for Apple Intelligence, 15.3-inch Liquid Retina Display, 16GB Unified Memory, 512GB SSD Storage, 12MP Center Stage Camera, Touch ID; Silver",
+          "asin": "B0DZD8G1CN",
+          "url": "https://www.amazon.com/dp/B0DZD8G1CN",
+          "price": "$1,099.00",
+          "rating": "4.8 out of 5 stars (2,738 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 5,
+          "name": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 512GB SSD, 12MP Center Stage Camera, Touch ID, Wi-Fi 7; Midnight",
+          "asin": "B0GR1JTFP8",
+          "url": "https://www.amazon.com/dp/B0GR1JTFP8",
+          "price": "$999.00",
+          "rating": "4.7 out of 5 stars (114 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 6,
+          "name": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Citrus",
+          "asin": "B0GR6BVYS5",
+          "url": "https://www.amazon.com/dp/B0GR6BVYS5",
+          "price": "$589.99",
+          "rating": "4.7 out of 5 stars (184 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 7,
+          "name": "acer Aspire Go 15 AI Ready Laptop | 15.6\" FHD (1920 x 1080) IPS Display | Intel Core 3 Processor N355 | Intel Graphics | 8GB DDR5 | 128GB UFS | Wi-Fi 6 | Windows 11 Home in S Mode | AG15-32P-39R2",
+          "asin": "B0DT7FC9B7",
+          "url": "https://www.amazon.com/dp/B0DT7FC9B7",
+          "price": "$315.00",
+          "rating": "4.4 out of 5 stars (713 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 8,
+          "name": "Dell 15 Laptop DC15250-15.6-inch FHD 120Hz Display, Intel Core 3 Processor 100U, 8GB DDR4 RAM, 512GB SSD, Intel UHD Graphics, Windows 11 Home, Onsite Service - Carbon Black",
+          "asin": "B09R6FNNS1",
+          "url": "https://www.amazon.com/dp/B09R6FNNS1",
+          "price": "$349.99",
+          "rating": "4.3 out of 5 stars (493 ratings)",
+          "badge": null
+        }
+      ]
+    },
+    {
+      "search_number": 4,
+      "timestamp": "2026-04-21T11:53:47.166326",
+      "query": "best running shoes for men?",
+      "responseText": "These selections span from budget-friendly options around $40 to premium models up to $165, covering different running styles from daily training to performance runs. The premium options offer advanced cushioning technologies, while the value picks provide reliable comfort for regular use.",
+      "products": [
+        {
+          "rank": 1,
+          "name": "ASICS Men's Gel-Nimbus 27 Running Shoes",
+          "asin": "B0D42DTM2X",
+          "url": "https://www.amazon.com/dp/B0D42DTM2X",
+          "price": "$124.95",
+          "rating": "4.6 out of 5 stars (2,156 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 2,
+          "name": "New Balance Men's Fresh Foam X 1080 V14 Running Shoe",
+          "asin": "B0CLB6X87W",
+          "url": "https://www.amazon.com/dp/B0CLB6X87W",
+          "price": "$134.99",
+          "rating": "4.6 out of 5 stars (2,101 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 3,
+          "name": "Hoka Men's Bondi 9",
+          "asin": "B0D5G1XKJN",
+          "url": "https://www.amazon.com/dp/B0D5G1XKJN",
+          "price": "$148.00",
+          "rating": "4.6 out of 5 stars (2,173 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 4,
+          "name": "Brooks Men's Adrenaline Gts 23 Sneaker",
+          "asin": "B0BJ7TKY96",
+          "url": "https://www.amazon.com/dp/B0BJ7TKY96",
+          "price": "$114.95",
+          "rating": "4.6 out of 5 stars (5,715 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 5,
+          "name": "adidas Men's Ultraboost 1.0 Running Shoe",
+          "asin": "B09VCMCYM3",
+          "url": "https://www.amazon.com/dp/B09VCMCYM3",
+          "price": "$135.00",
+          "rating": "4.4 out of 5 stars (2,052 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 6,
+          "name": "Under Armour Men's Charged Surge 4 Sneaker",
+          "asin": "B0BZXMXTT2",
+          "url": "https://www.amazon.com/dp/B0BZXMXTT2",
+          "price": "$39.98",
+          "rating": "4.5 out of 5 stars (12,648 ratings)",
+          "badge": null
+        },
+        {
+          "rank": 7,
+          "name": "Nike Men's Revolution 8 Road Running Shoes",
+          "asin": "B0DPHRHRDL",
+          "url": "https://www.amazon.com/dp/B0DPHRHRDL",
+          "price": "$56.25",
+          "rating": "4.6 out of 5 stars (2,688 ratings)",
+          "badge": null
+        }
+      ]
+    }
+  ]
+}
