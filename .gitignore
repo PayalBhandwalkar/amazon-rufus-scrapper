@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Playwright
+playwright-report/
+
+# Output files (important)
+output/
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# Environment
+.env
