@@ -1,5 +1,4 @@
 # Amazon Rufus Scraper (POC)
-# 🛒 Amazon Rufus Scraper (POC)
 
 ## 📌 Overview
 
@@ -9,10 +8,10 @@ Given a query like:
 > "Best hair serum for men"
 
 The system captures:
-- 🤖 AI-generated response
-- 🛍️ Product recommendations
-- 📊 Product details (name, price, rating, URL)
-- 🏆 Ranking order
+- AI-generated response
+- Product recommendations
+- Product details (name, price, rating, URL)
+- Ranking order
 
 ---
 
